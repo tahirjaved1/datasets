@@ -1,0 +1,52 @@
+Time,Gender,Age,SuspiciousActivity,Visitor,CommunityWorker,Class
+Morning ,male,child ,No,0,No,No
+Morning ,female,child ,No,2,Yes,No
+Morning,male,Young ,Yes,1,No,Yes
+Morning,male,Young ,Yes,1,No,No
+Morning,male,Young ,Yes,1,No,Yes
+Morning,male,Young ,Yes,1,Yes,Yes
+Morning,female,Young ,No,3,Yes,No
+Noon,female,Young ,Yes,1,Yes,Yes
+Morning,female,Adullt ,No,0,No,No
+Morning,female,Adullt ,No,2,Yes,No
+Morning,male,Old,Yes,2,Yes,No
+Morning,female,Old,No,2,No,No
+Noon,male,child ,No,3,No,No
+Noon,female,child ,No,4,No,No
+Noon,male,Young ,Yes,1,No,Yes
+Noon,male,Young ,Yes,1,Yes,Yes
+Noon,female,Young ,Yes,1,No,Yes
+Noon,male,Young ,No,1,No,Yes
+Noon,female,Adullt ,No,5,No,No
+Noon,male,Adullt ,No,0,Yes,No
+Noon,female,Adullt ,No,1,No,Yes
+Noon,female,Old,No,0,No,No
+Noon,male,Old,No,6,No,No
+Evening,female,child ,No,4,No,No
+Evening,male,child ,No,2,No,No
+Noon,male,Young ,Yes,1,No,Yes
+Evening,female,Young ,No,1,Yes,No
+Noon,male,Adullt ,Yes,1,No,Yes
+Evening,male,Adullt ,Yes,0,No,No
+Evening,female,Adullt ,No,4,Yes,No
+Evening,female,Old,No,5,No,No
+Evening,male,Old,No,0,No,No
+MidNight,female,child ,No,0,No,No
+MidNight,male,Young ,Yes,1,No,Yes
+MidNight,female,Young ,No,1,No,Yes
+MidNight,male,Young ,No,1,Yes,Yes
+MidNight,male,Adullt ,Yes,1,No,Yes
+MidNight,male,Adullt ,Yes,1,No,Yes
+MidNight,female,Adullt ,Yes,1,No,Yes
+MidNight,male,Old,Yes,1,No,Yes
+MidNight,male,Old,No,0,No,No
+MidNight,male,Young ,Yes,1,No,Yes
+MidNight,male,Adullt ,Yes,1,No,Yes
+MidNight,male,Adullt ,Yes,1,No,Yes
+Noon,male,Adullt ,Yes,1,No,Yes
+Noon,male,Adullt ,Yes,2,No,Yes
+Noon,male,Adullt ,Yes,1,No,Yes
+MidNight,female,Young ,No,1,No,Yes
+MidNight,female,Adult,Yes,1,No,Yes
+MidNight,female,Young ,Yes,1,Yes,Yes
+MidNight,female,Adult,No,2,No,Yes
